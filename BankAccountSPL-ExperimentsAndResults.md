@@ -43,7 +43,7 @@ The IDs and the features of the products which are used as a PUC or an EP can be
 | 54          | 40                             | 16                  | deposit, withdraw, cancelDeposit, interest, cancelWithdraw, dailyLimit                     | credit             |
 | 89          | 41                             | 35                  | deposit, withdraw, credit, interest, cancelWithdraw, dailyLimit, interestEstimation        | cancelDeposit      |
 
-[Click for the PDF version of the table](https://github.com/esg4aspl/SPL-FESG-Examples/blob/master/BankAccount/Testing%20Scenarios.pdf)
+[Click for the PDF version of the table](https://github.com/esg4aspl/Incremental-Testing-in-Software-Product-Lines/blob/main/IncrementalTestingData/TestingScenarios.pdf)
 
 
 
@@ -83,7 +83,7 @@ The table below contains the total number of possible faults and the number of f
 | 86          | 39     | 30  | 34  | 64                              | 33                      |
 | 89          | 41     | 39  | 40  | 79                              | 37                      |
 
-[Click for the PDF version of the table](https://github.com/esg4aspl/SPL-FESG-Examples/blob/master/BankAccount/Data%20on%20Number%20of%20Faults.pdf)
+[Click for the PDF version of the table](https://github.com/esg4aspl/Incremental-Testing-in-Software-Product-Lines/blob/main/IncrementalTestingData/DataOnNumberOfFaults.pdf)
 
 ## Data on Test Generation and Execution
 Table below presents data on fault coverage and performance statistics on test set generation and test execution processes.
@@ -151,4 +151,4 @@ Table below presents data on fault coverage and performance statistics on test s
 | 89          | 41     | inc      | 38                    | 40                     | 38            | 0.66                 | 37            | 110             | 22              |
 | 89          | 41     | sm       | \-                    | 42                     | \-            | 61.66                | 37            | 139             | 23              |                            | 66.14           | 37            | 275             | 32              |
 
-[Click for the PDF version of the table](https://github.com/esg4aspl/SPL-FESG-Examples/blob/master/BankAccount/Data%20on%20TestGeneration%26Execution.pdf)
+[Click for the PDF version of the table](https://github.com/esg4aspl/Incremental-Testing-in-Software-Product-Lines/blob/main/IncrementalTestingData/DataOnTestGenerationAndExecution.pdf)
