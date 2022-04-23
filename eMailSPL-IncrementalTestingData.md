@@ -41,6 +41,8 @@ In this table, the selected testing scenarios are given with their Scenario IDs,
 | 49          | 22                             | 20                  | encrypt, sign                       | autoresponder |
 | 51          | 23                             | 22                  | autoresponder, encrypt, sign        | addressbook   |
 
+[Click for the PDF version of the table - (page 2)](https://github.com/esg4aspl/Incremental-Testing-in-Software-Product-Lines/blob/main/IncrementalTestingData/TestingScenarios.pdf)
+
 ## Data on Number of Faults
 The table below contains the total number of possible faults and the number of faults seeded for various m values for each PUC. The entire number of possible faults for each PUC for a given value of m is directly proportional to the number of m-sequences in the PUC's ESG, and the total number of seeded faults is 20% of the summation of number of possible faults for m=2,3.
 
@@ -77,6 +79,7 @@ The table below contains the total number of possible faults and the number of f
 | 49          | 22     | 32  | 66  | 98                            | 140                     |
 | 51          | 23     | 40  | 76  | 116                           | 158                     |
 
+[Click for the PDF version of the table - (page 2)](https://github.com/esg4aspl/Incremental-Testing-in-Software-Product-Lines/blob/main/IncrementalTestingData/DataOnNumberOfFaults.pdf)
 
 # Data on Test Generation and Execution
 Table below presents data on fault coverage and performance statistics on test set generation and test execution processes.
@@ -143,3 +146,5 @@ Table below presents data on fault coverage and performance statistics on test s
 | 49          | 22     | sm       | \-                    | 28                     | \-            | 55.45                | 140           | 271             | 56              |
 | 51          | 23     | inc      | 38                    | 47                     | 38            | 1.36                 | 158           | 317             | 69              |
 | 51          | 23     | sm       | \-                    | 35                     | \-            | 58.58                | 158           | 271             | 64              |
+
+[Click for the PDF version of the table - (page 2)](https://github.com/esg4aspl/Incremental-Testing-in-Software-Product-Lines/blob/main/IncrementalTestingData/DataOnTestGenerationAndExecution.pdf)
