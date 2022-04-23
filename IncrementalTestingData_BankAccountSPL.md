@@ -5,7 +5,7 @@ The Bank Account Product Line has fourty two(42) product configurations and nint
 1. The same scenario has not been selected more than once.
 2. The same PUC has not been selected more than twice.
 
-## Testing Scenarios
+## Incremental Testing Scenarios
 In this table, the selected testing scenarios are given with their Scenario IDs, Product Under Consideration(PUC) IDs, Existing Product(EP) IDs, Existing Product Features and Increment. Existing Product refers to the product that we already have the model and the test sequences. In incremental test generation approach, the existing product's test sequences and increment's test sequences are composed so that the test sequences of the PUC is obtained without generating and composing all of its features from scratch.
 
 The IDs and the features of the products which are used as a PUC or an EP can be found [here](https://github.com/esg4aspl/SPL-FESG-Examples/blob/master/BankAccount/Products.pdf).
