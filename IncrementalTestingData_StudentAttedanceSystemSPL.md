@@ -1,6 +1,5 @@
 # Incremental Testing Data for Student Attendance System SPL - Experiments and Results
 
-# Student Attendance System Product Line Test Generation and Execution
 The Student Attendance System product line has 2664 product configurations and 10236 one-increment, i.e., one feature addition, testing scenarios in total. In our study, we select 30 of the testing scenarios randomly. In the selection process of the one increment scenarios, the following two rules are applied:
 1.	The same scenario has not been selected more than once.	
 2.	The same PUC has not been selected more than twice.
