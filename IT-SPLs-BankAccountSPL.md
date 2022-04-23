@@ -82,7 +82,7 @@ The numbers of k-sequences where k=1,2,3,4 are given to give a notion of the siz
 [Click for the PDF version of the table](https://github.com/esg4aspl/SPL-FESG-Examples/blob/master/BankAccount/Data%20on%20PUCs.pdf)
 
 ## Data on Number of Faults
-The table below contains the total number of possible faults and the number of faults seeded for various m values for each PUC. The entire number of possible faults for each PUC for a given value of m is directly proportional to the number of m-sequences in the PUC's ESG, and the total number of seeded faults is 20% of the summation of number of possible faults for m=2,3,4,5.
+The table below contains the total number of possible faults and the number of faults seeded for various m values for each PUC. The entire number of possible faults for each PUC for a given value of m is directly proportional to the number of m-sequences in the PUC's ESG, and the total number of seeded faults is 20% of the summation of number of possible faults for m=2,3.
 
 | Scenario ID | PUC ID | m=2 | m=3 | Total Number of Possible Faults | Number of Seeded Faults |
 | ----------- | ------ | --- | --- | ------------------------------- | ----------------------- |
