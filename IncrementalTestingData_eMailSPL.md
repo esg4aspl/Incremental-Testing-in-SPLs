@@ -8,8 +8,6 @@ The IDs and the features of the products which are used as a PUC or an EP can be
 ## Testing Scenarios
 In this table, the selected testing scenarios are given with their Scenario IDs, Product Under Consideration(PUC) IDs, Existing Product IDs and Features and Increment. Existing Product refers to the product that we already have the model and the test sequences. In incremental test generation approach, the existing product's test sequences and increment's test sequences are composed so that the test sequences of the PUC is obtained without generating and composing all of its features from scratch. 
 
-| eMail SPL - Testing Scenarios |
-| ----------------------------- |
 | Scenario ID                   | Product Under Consideration ID | Existing Product ID | Existing Product Features | Increment |
 | 1                             | 2 | 0 | \- | autoresponder |
 | 2                             | 4 | 0 | \- | forward |
