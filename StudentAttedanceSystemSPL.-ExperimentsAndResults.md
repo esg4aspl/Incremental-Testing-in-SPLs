@@ -42,6 +42,8 @@ In this table, the selected testing scenarios are given with their Scenario IDs,
 | 5188        | 1246                           | 1194                | viewSchedule, SMS, studentAccess, teacherAccess, updateRecord, addNewSchedule, traceAttendanceActivity, deleteClass, fingerprint                                                                   | viewClass               |
 | 573         | 1005                           | 121                 | viewClass, viewSchedule, SMS, teacherAccess, updateRecord, addNewClass, barcode                                                                                                                    | addNewSchedule          |
 
+[Click for the PDF version of the table - (page 3)](https://github.com/esg4aspl/Incremental-Testing-in-Software-Product-Lines/blob/main/IncrementalTestingData/TestingScenarios.pdf)
+
 ## Data on Number of Faults
 The table below contains the total number of possible faults and the number of faults seeded for various m values for each PUC. The entire number of possible faults for each PUC for a given value of m is directly proportional to the number of m-sequences in the PUC's ESG, and the total number of seeded faults is 20% of the summation of number of possible faults for m=2,3.
 
@@ -77,6 +79,8 @@ The table below contains the total number of possible faults and the number of f
 | 9379        | 2655   | 112 | 198 | 310                             | 272                     |
 | 9432        | 2413   | 106 | 192 | 298                             | 265                     |
 | 9436        | 2390   | 97  | 178 | 275                             | 253                     |
+
+[Click for the PDF version of the table - (page 3)](https://github.com/esg4aspl/Incremental-Testing-in-Software-Product-Lines/blob/main/IncrementalTestingData/DataOnNumberOfFaults.pdf)
 
 ## Data on Test Generation and Execution
 Table below presents data on fault coverage and performance statistics on test set generation and test execution processes.
@@ -143,3 +147,5 @@ Table below presents data on fault coverage and performance statistics on test s
 | 9432        | 2413   | sm       | \-                    | 130                    | \-            | 79.03                | 265           | 901             | 142             |
 | 9436        | 2390   | inc      | 130                   | 136                    | 130           | 0.76                 | 253           | 878             | 135             |
 | 9436        | 2390   | sm       | \-                    | 120                    | \-            | 77.79                | 253           | 888             | 135             |
+
+[Click for the PDF version of the table - (page 3)](https://github.com/esg4aspl/Incremental-Testing-in-Software-Product-Lines/blob/main/IncrementalTestingData/DataOnTestGenerationAndExecution.pdf)
