@@ -45,8 +45,6 @@ The IDs and the features of the products which are used as a PUC or an EP can be
 
 [Click for the PDF version of the table - (page 1)](https://github.com/esg4aspl/Incremental-Testing-in-Software-Product-Lines/blob/main/IncrementalTestingData/TestingScenarios.pdf)
 
-
-
 ## Data on Number of Faults
 The table below contains the total number of possible faults and the number of faults seeded for various m values for each PUC. The entire number of possible faults for each PUC for a given value of m is directly proportional to the number of m-sequences in the PUC's ESG, and the total number of seeded faults is 20% of the summation of number of possible faults for m=2,3.
 
