@@ -10,7 +10,7 @@ In this table, the selected testing scenarios are given with their Scenario IDs,
 
 The IDs and the features of the products which are used as a PUC or an EP can be found [here](https://github.com/esg4aspl/SPL-FESG-Examples/blob/master/BankAccount/Products.pdf).
 
-| Scenario ID | Product Under Consideration ID | Existing Product ID | Existing Product Features                                                                  | New Feature        |
+| Scenario ID | Product Under Consideration ID | Existing Product ID | Existing Product Features                                                                  | Increment         |
 | ----------- | ------------------------------ | ------------------- | ------------------------------------------------------------------------------------------ | ------------------ |
 | 4           | 2                              | 1                   | deposit, withdraw, interest                                                                | interestEstimation |
 | 5           | 4                              | 1                   | deposit, withdraw, interest                                                                | cancelDeposit      |
