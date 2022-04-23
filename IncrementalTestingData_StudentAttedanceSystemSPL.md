@@ -43,7 +43,7 @@ In this table, the selected testing scenarios are given with their Scenario IDs,
 | 573         | 1005                           | 121                 | viewClass, viewSchedule, SMS, teacherAccess, updateRecord, addNewClass, barcode                                                                                                                    | addNewSchedule          |
 
 ## Data on Number of Faults
-The table below contains the total number of possible faults and the number of faults seeded for various m values for each PUC. The entire number of possible faults for each PUC for a given value of m is directly proportional to the number of m-sequences in the PUC's ESG, and the total number of seeded faults is 20% of the summation of number of possible faults for m=2,3,4,5.
+The table below contains the total number of possible faults and the number of faults seeded for various m values for each PUC. The entire number of possible faults for each PUC for a given value of m is directly proportional to the number of m-sequences in the PUC's ESG, and the total number of seeded faults is 20% of the summation of number of possible faults for m=2,3.
 
 | Scenario ID | PUC ID | m=2 | m=3 | Total Number of Possible Faults | Number of Seeded Faults |
 | ----------- | ------ | --- | --- | ------------------------------- | ----------------------- |
