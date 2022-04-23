@@ -43,44 +43,6 @@ In this table, the selected testing scenarios are given with their Scenario IDs,
 
 [Click for the PDF version of the table](https://github.com/esg4aspl/SPL-FESG-Examples/blob/master/BankAccount/Testing%20Scenarios.pdf)
 
-## Data on PUCs
-The numbers of k-sequences where k=1,2,3,4 are given to give a notion of the sizes of the selected PUCs in the testing scenarios.
-
-| Product Under Consideration ID | k = 1 |  k = 2 | k = 3 | k = 4 |
-| ------------------------------ | ----- | ------ | ----- | ----- |
-| 6                              | 8     | 9      | 11    | 14    |
-| 24                             | 10    | 10     | 10    | 12    |
-| 2                              | 12    | 12     | 12    | 13    |
-| 4                              | 11    | 11     | 11    | 14    |
-| 14                             | 14    | 14     | 14    | 17    |
-| 7                              | 11    | 11     | 11    | 14    |
-| 9                              | 10    | 13     | 17    | 23    |
-| 8                              | 13    | 13     | 13    | 15    |
-| 15                             | 11    | 14     | 18    | 25    |
-| 19                             | 15    | 18     | 20    | 27    |
-| 20                             | 17    | 20     | 22    | 28    |
-| 13                             | 12    | 12     | 12    | 16    |
-| 36                             | 12    | 12     | 12    | 16    |
-| 16                             | 14    | 16     | 18    | 25    |
-| 21                             | 13    | 17     | 21    | 29    |
-| 17                             | 16    | 18     | 20    | 26    |
-| 40                             | 17    | 18     | 18    | 25    |
-| 23                             | 18    | 21     | 23    | 30    |
-| 22                             | 16    | 19     | 21    | 29    |
-| 25                             | 13    | 12     | 10    | 12    |
-| 30                             | 11    | 11     | 11    | 14    |
-| 26                             | 15    | 14     | 12    | 13    |
-| 28                             | 14    | 13     | 11    | 14    |
-| 32                             | 16    | 15     | 13    | 15    |
-| 38                             | 17    | 16     | 14    | 17    |
-| 33                             | 13    | 15     | 17    | 23    |
-| 35                             | 18    | 19     | 19    | 24    |
-| 34                             | 16    | 17     | 17    | 23    |
-| 39                             | 14    | 16     | 18    | 25    |
-| 41                             | 19    | 20     | 20    | 26    |
-
-[Click for the PDF version of the table](https://github.com/esg4aspl/SPL-FESG-Examples/blob/master/BankAccount/Data%20on%20PUCs.pdf)
-
 ## Data on Number of Faults
 The table below contains the total number of possible faults and the number of faults seeded for various m values for each PUC. The entire number of possible faults for each PUC for a given value of m is directly proportional to the number of m-sequences in the PUC's ESG, and the total number of seeded faults is 20% of the summation of number of possible faults for m=2,3.
 
