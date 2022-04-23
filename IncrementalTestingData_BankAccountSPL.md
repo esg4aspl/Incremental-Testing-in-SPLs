@@ -1,9 +1,11 @@
 
 
 # Bank Account Product Line Experiments and Results
-The Bank Account Product Line has forty two(42) product configurations and ninty seven(97) one-increment i.e., one feature addition, testing scenarios in total. In our study, we select 30 of the testing scenarios randomly. In the selection process of the one increment scenarios, the following two rules are applied:
+The Bank Account Product Line has forty two(42) product configurations and ninty seven(97) one-increment i.e., one feature addition, testing scenarios in total. In this study, we select 30 of the testing scenarios out of 97 scenarios randomly. In the selection process of the one increment scenarios, the following two rules are applied:
 1. The same scenario has not been selected more than once.
 2. The same PUC has not been selected more than twice.
+
+The product information can be found [on](https://github.com/esg4aspl/SPL-FESG-Examples/blob/master/BankAccount/Products.pdf).
 
 ## Testing Scenarios
 In this table, the selected testing scenarios are given with their Scenario IDs, Product Under Consideration(PUC) IDs, Existing Product IDs and Features and Increment. Existing Product refers to the product that we already have the model and the test sequences. In incremental test generation approach, the existing product's test sequences and increment's test sequences are composed so that the test sequences of the PUC is obtained without generating and composing all of its features from scratch.
@@ -42,6 +44,8 @@ In this table, the selected testing scenarios are given with their Scenario IDs,
 | 89          | 41                             | 35                  | deposit, withdraw, credit, interest, cancelWithdraw, dailyLimit, interestEstimation        | cancelDeposit      |
 
 [Click for the PDF version of the table](https://github.com/esg4aspl/SPL-FESG-Examples/blob/master/BankAccount/Testing%20Scenarios.pdf)
+
+
 
 ## Data on Number of Faults
 The table below contains the total number of possible faults and the number of faults seeded for various m values for each PUC. The entire number of possible faults for each PUC for a given value of m is directly proportional to the number of m-sequences in the PUC's ESG, and the total number of seeded faults is 20% of the summation of number of possible faults for m=2,3.
