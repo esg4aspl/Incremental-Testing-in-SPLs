@@ -1,7 +1,7 @@
 
 
 # Incremental Testing Data for Bank Account SPL - Experiments and Results
-The Bank Account Product Line has fourty two(42) product configurations and ninty seven(97) one-increment i.e., one feature addition, testing scenarios in total. In this study, we select 30 of the testing scenarios out of 97 scenarios randomly. In the selection process of the one increment scenarios, the following two rules are applied:
+The Bank Account Product Line has 42 product configurations and 97 one-increment i.e., one feature addition, testing scenarios in total. In this study, we select 30 of the testing scenarios out of 97 scenarios randomly. In the selection process of the one increment scenarios, the following two rules are applied:
 1. The same scenario has not been selected more than once.
 2. The same PUC has not been selected more than twice.
 
